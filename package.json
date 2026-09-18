@@ -6,12 +6,12 @@
   "description": "Parse markdown quiz files into structured objects. Supports YAML frontmatter, checkbox answers, code blocks, and per-answer explanations.",
   "author": "Aleksander Fidelus",
   "license": "MIT",
-  "homepage": "https://github.com/FidelusAleksander/mdquiz#readme",
+  "homepage": "https://github.com/v-fidelusaleksander/mdquiz#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/FidelusAleksander/mdquiz.git"
+    "url": "git+https://github.com/v-fidelusaleksander/mdquiz.git"
   },
-  "bugs": "https://github.com/FidelusAleksander/mdquiz/issues",
+  "bugs": "https://github.com/v-fidelusaleksander/mdquiz/issues",
   "keywords": [
     "markdown",
     "quiz",
