@@ -1,6 +1,6 @@
 MIT License
 
-Copyright (c) 2026-PRESENT Aleksander Fidelus <https://github.com/FidelusAleksander>
+Copyright (c) 2026-PRESENT Aleksander Fidelus <https://github.com/v-fidelusaleksander>
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal

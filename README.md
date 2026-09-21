@@ -146,5 +146,5 @@ interface ParseDirOptions {
 [npm-downloads-href]: https://npmjs.com/package/mdquiz
 [bundle-src]: https://img.shields.io/bundlephobia/minzip/mdquiz?style=flat&colorA=080f12&colorB=1fa669&label=minzip
 [bundle-href]: https://bundlephobia.com/result?p=mdquiz
-[license-src]: https://img.shields.io/github/license/FidelusAleksander/mdquiz.svg?style=flat&colorA=080f12&colorB=1fa669
-[license-href]: https://github.com/FidelusAleksander/mdquiz/blob/main/LICENSE.md
+[license-src]: https://img.shields.io/github/license/v-fidelusaleksander/mdquiz.svg?style=flat&colorA=080f12&colorB=1fa669
+[license-href]: https://github.com/v-fidelusaleksander/mdquiz/blob/main/LICENSE.md
